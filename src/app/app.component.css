@@ -1,0 +1,12 @@
+
+.logo-png {
+  height: 46px;
+  margin: 0 10px 0px 0;
+  vertical-align: middle;
+}
+
+@media screen and (max-width: 1024px) {
+  .pc_menu {
+      display: none !important;
+  }
+}

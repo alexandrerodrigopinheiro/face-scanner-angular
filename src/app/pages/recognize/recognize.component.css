@@ -1,0 +1,23 @@
+
+canvas {
+  display: none;
+}
+
+.container {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.photo {
+  display: inline-block;
+  margin: 30px;
+}
+
+#video {
+  width: 80%;
+  max-width: 480px;
+}
